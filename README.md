@@ -13,10 +13,10 @@ The following projects engages the learner to deeper learning on web development
 The current project was made to happen using various technologies as mentioned bellow
 - HTML5
 - CSS3
-HTML was mainly used for the structural part of the website while [CSS] for the user UI.
+HTML was mainly used for the structural part of the website while [CSS](https://devdocs.io/css/) for the user UI.
 
 ## Features
-- Feature 1
+- [@index.html](https://github.com/Quantums-meruit/iyf-s12-week-01-Quantums-meruit/blob/main/index.html)
 - Feature 2
 - Feature 3
 
