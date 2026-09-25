@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset>
+        <form action="GET">
+            <legend>Fil the Form</legend>
+            <br>
+            <label for="names">Full Name</label>
+            <input type="text" id="names" required placeholder="Jane Doe">
+
+            <br>
+            <br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" required placeholder="mailto@gmail.com" pattern=".+@example\.com" >
+
+            <br>
+            <br>
+            <label for="phone">Phone Number</label>
+            <!-- (01|07)   → must start with 01 or 07
+            [0-9]{8} → followed by exactly 8 digits -->
+            <input type="tel" id="phone"  pattern="(01|07)[0-9]{8}" placeholder="0712345678">
+            <br>
+            <br>
+            <label for="subject">subject</label>
+            <select name="subject" id="subject">
+                <option value="#html">html<option>
+                <option value="#CSS">Cascading style sheet </option>
+                <option value="#JavaScript">JavaScript</option>
+                <option value="#Database">MongoDB</option>
+                
+            </select>
+            <br><br>
+            <label for="message">Message</label>
+            <input type="textarea" required minlength="50">
+            <br><br>
+            <label for="news">Newsletter subscription</label>
+            <input type="checkbox" id="news" >
+            <br>
+            <br>
+            <button onclick="submit" class="submitbtn">Submit</button>
+
+
+        </form>
+    </fieldset>
+</body>
+</html>
