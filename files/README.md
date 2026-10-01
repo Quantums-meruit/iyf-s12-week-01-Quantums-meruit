@@ -2,7 +2,7 @@
 # Week {1}: 
 
 ## Author
-- **Name:** @Quantum-meruit
+- **Name:** [@Quantum-meruit]()
 - **GitHub:** [@Quantums-meruit](https://github.com/Quantums-meruit)
 - **Date:** 09 25/2026
 
