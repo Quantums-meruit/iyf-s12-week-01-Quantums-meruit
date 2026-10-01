@@ -1,8 +1,8 @@
 # iyf-s12-week-01-Quantums-meruit
-# Week {1}: {Project Title}
+# Week {1}: 
 
 ## Author
-- **Name:** Joseph Kinyanjui 
+- **Name:** @Quantum-meruit
 - **GitHub:** [@Quantums-meruit](https://github.com/Quantums-meruit)
 - **Date:** 09 25/2026
 
