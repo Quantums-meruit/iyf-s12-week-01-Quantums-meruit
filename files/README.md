@@ -33,7 +33,7 @@ main challenge faced was to use `@media` queries and make the portfolio accessib
 Up to this point it official to say that challenges are everywhere,  bugs and debugging is also important. I faced challenges like `tag naming`, `forgetting to close tags `, `indentation and links `.
 
 ## Accessibility and semantic article  link
-
+https://dev.to/joseph_kinyanjui_845af373/basis-for-accessible-html-3jjc
 
 ## Conclusion
 In conclusion, the project was successful and ready for `submission`
